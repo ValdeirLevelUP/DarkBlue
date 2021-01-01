@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32a6ceb693a7fc04d855a53508be9315, type: 3}
+  m_Name: New Config Game
+  m_EditorClassIdentifier: 
+  _contagemRegressiva: 3
+  _QuantidadeMedusas: 28
+  _distanciaHorizontalEntreMedusas: 25
+  _distanciaVerticalEntreMedusas: 0.4
+  _distanciaDoSolo: 3.5
+  _distanciaDoJogador: 5
+  _tempoDePartida: 30
+  _nMaxDeMedusasSimultanementeFuriosas: 4
+  _tempoEntreDoisEnfurecimentos: 2
